@@ -17,7 +17,7 @@ const router = new VueRouter({
 })
 ```
 
-```js
+```html
 /* App.vue */
 
 <keep-alive>

@@ -4,12 +4,12 @@
 
 - [] 看完 vue 源码，`v2.x & v3.x`
 - [] 读书
-  - [] 《css世界》
-  - [] 《javascript高级程序设计》（未购买）
-  - [] 《javascript权威指南》（未购买）
-  - [] 《高性能MySQL》
+  - [] 《css 世界》
+  - [] 《javascript 高级程序设计》
+  - [] 《javascript 权威指南》
+  - [] 《高性能 MySQL》
 
-## Essay 随笔 （github同步）
+## Essay 随笔 （github 同步）
 
 1. [[201900]命名规范](./essay/[201900]命名规范.md)
 2. [[201901]网页禁止选中、复制](./essay/[201901]网页禁止选中、复制.md)
